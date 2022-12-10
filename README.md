@@ -9,3 +9,9 @@
 - cd Orchis-theme/
 - ./install.sh
 - ./install.sh -l
+
+### Instal Icon Theme
+- git clone https://github.com/TaylanTatli/Sevi.git
+- cd Sevi/
+- ./install.sh
+- ./install.sh -a
