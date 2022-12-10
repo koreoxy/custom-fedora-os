@@ -15,3 +15,7 @@
 - cd Sevi/
 - ./install.sh
 - ./install.sh -a
+
+### Installing Cuctome GNOME Shell Theme
+- open and extract file Orchis-Shell-MOD
+- and copy file to folder /Home/.themes
