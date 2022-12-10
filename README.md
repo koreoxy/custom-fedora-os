@@ -18,4 +18,8 @@
 
 ### Installing Cuctome GNOME Shell Theme
 - open and extract file Orchis-Shell-MOD
-- and copy file to folder /Home/.themes
+- and copy file to folder ./Home/.themes
+
+### Installing Fonts and Wallpaper
+- open and extract file fonts.zip
+- and copy file to folder ./home/.local/share
