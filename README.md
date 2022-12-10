@@ -22,4 +22,6 @@
 
 ### Installing Fonts and Wallpaper
 - open and extract file fonts.zip
-- and copy file to folder ./home/.local/share
+- copy file fonts to folder ./home/.local/share
+- open and extract file backgrounds.zip
+- copy file background to folder ./home/.local/share
