@@ -25,3 +25,15 @@
 - copy file fonts to folder ./home/.local/share
 - open and extract file backgrounds.zip
 - copy file background to folder ./home/.local/share
+
+### Installing GNOME Extensions
+- https://extensions.gnome.org/extension/615/appindicator-support/
+- https://extensions.gnome.org/extension/5338/aylurs-widgets/
+- https://extensions.gnome.org/extension/3193/blur-my-shell/
+- https://extensions.gnome.org/extension/97/coverflow-alt-tab/
+- https://extensions.gnome.org/extension/307/dash-to-dock/
+- https://extensions.gnome.org/extension/1319/gsconnect/
+- https://extensions.gnome.org/extension/3843/just-perfection/
+- https://extensions.gnome.org/extension/5237/rounded-window-corners/
+- https://extensions.gnome.org/extension/1514/rounded-corners/
+- https://extensions.gnome.org/extension/19/user-themes/
