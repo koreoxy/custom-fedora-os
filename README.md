@@ -53,3 +53,9 @@
 - and restart pc or log out
 - install Extension in software apps
 
+### Customize Firefox web browser
+- cd Downloads/
+- git clone https://github.com/vinceliuice/WhiteSur-firefox-theme.git
+- cd WhiteSur-firefox-theme/
+- ./install.sh -m
+
