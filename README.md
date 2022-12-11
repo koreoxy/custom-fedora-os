@@ -37,3 +37,14 @@
 - https://extensions.gnome.org/extension/5237/rounded-window-corners/
 - https://extensions.gnome.org/extension/1514/rounded-corners/
 - https://extensions.gnome.org/extension/19/user-themes/
+
+### Change theme, icons, fonts and wallpaper
+- Appearance
+![Screenshot from 2022-12-11 10-00-30](https://user-images.githubusercontent.com/73381115/206884295-7622ac58-d434-478c-a4a3-7959901c3849.png)
+- Fonts
+![Screenshot from 2022-12-11 10-02-55](https://user-images.githubusercontent.com/73381115/206884353-ba2279c6-e95c-4160-bf7b-68e216845594.png)
+- Window Titlebars
+![Screenshot from 2022-12-11 10-03-50](https://user-images.githubusercontent.com/73381115/206884375-939f9e88-dddd-4b58-b49f-6077fec56e11.png)
+
+
+
