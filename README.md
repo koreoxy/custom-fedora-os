@@ -46,5 +46,10 @@
 - Window Titlebars
 ![Screenshot from 2022-12-11 10-03-50](https://user-images.githubusercontent.com/73381115/206884375-939f9e88-dddd-4b58-b49f-6077fec56e11.png)
 
-
+### Configure GNOME Extensions
+- open and extract file gnome-extensions-settings.zip
+- open terminal in folders /Downloads
+- dconf load /org/gnome/shell/extensions/ < gnome-extensions-settings.conf
+- and restart pc or log out
+- install Extension in software apps
 
